@@ -8,7 +8,8 @@ public class myscript : MonoBehaviour {
 	float dy = -0.01f;
 
 	void Start () {
-		
+		Debug.Log ("unnko");
+
 	}
 	
 	// Update is called once per frame
